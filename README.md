@@ -1,4 +1,4 @@
-# 👋 Hi, My name is Worty/Hamza and I'm a open source developer
+# 👋 Hi, I'm Worty/Hamza, a Full-Stack Developer.
 
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="50" height="50"/>
