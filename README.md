@@ -10,6 +10,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="50" height="50"/>
 </p>
 
-<p>
-  <img src="https://raw.githubusercontent.com/WortyXD/WortyXD/output/github-contribution-grid-snake.svg"/>
-</p>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/WortyXD/WortyXD/output/snake.svg" alt="Snake animation" />
+</div>
